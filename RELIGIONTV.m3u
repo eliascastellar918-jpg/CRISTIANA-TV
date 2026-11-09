@@ -61,13 +61,13 @@ https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PusDcc0.png" group-title="RELIGION",HOSSANA VISION
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43q1NzKY/logoskids.png" group-title="INFANTIL",LOGOS TV KIDS
+#EXTINF:-1  group-title="INFANTIL",LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="INFANTIL", DIOS TEVE KIDS
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0pWs892/alcancetv.png" "RELIGION",ALCANCE TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0pWs892/alcancetv.png"  group-title="RELIGION",ALCANCE TV
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGION",BENDICION CHANNEL
