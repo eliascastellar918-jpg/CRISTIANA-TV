@@ -58,10 +58,10 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?Playl
 #EXTINF:-1 group-title="RELIGION",AVIVAMIENTO TV 
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PusDcc0.png" "RELIGION",HOSSANA VISION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PusDcc0.png" group-title="RELIGION",HOSSANA VISION
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43q1NzKY/logoskids.png" "INFANTIL",LOGOS TV KIDS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43q1NzKY/logoskids.png" group-title="INFANTIL",LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="INFANTIL", DIOS TEVE KIDS
