@@ -1,0 +1,83 @@
+#EXTM3U 
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/822_Cristo_Libera.jpg" group-title="RELIGION", CRISTO LIBERA
+https://583ed2f226ac2.streamlock.net:443/1708/stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1756_Cristo_Razon_De_Vivir.png" group-title="RELIGION", CRISTO RAZON DE VIVIR
+https://tv.arkeo.cl:19360/8058/8058.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1555_Emanuel7_TV.png" group-title="RELIGION", EMANUEL7 TV
+https://stv1.voxbr.com.br/emanuel7tv/emanuel7tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1412_Enlace_BPB.png" group-title="RELIGION", ENLACE BPB
+https://v1.tustreaming.cl/enlacebpbtv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/173_Escuchame_Radio.png" group-title="RELIGION", ESCUCHAME RADIO
+https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/824_Faro_de_Santidad_TV.jpg" group-title="RELIGION", FARO DE SANTIDAD TV
+https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1480_Fortaleza_Radio.png" group-title="RELIGION", FORTALEZA RADIO
+https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1479_Fortaleza_TV.png" group-title="RELIGION", FORTALEZA TV
+https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/163_Gracia_TV.png" group-title="RELIGION", GRACIA TV
+https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1462_Inminente_TV.png" group-title="RELIGION", INMINENTE TV 
+https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/192_Luz_Naciente_TV.png" group-title="RELIGION", LUZ NACIENTE TV
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/164_NCTV.png" group-title="RELIGION", NCTV 
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/862_Oasis_TV.png" group-title="RELIGION", OASIS TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/826_Radio_TV_Cristo_Viene.jpg" group-title="RELIGION", RADIO TV CRISTO VIENE
+https://584097344c1f0.streamlock.net:443/1599/stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png" group-title="RELIGION", RADIO VIDA CURICO
+https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/351_Restaurando_Vidas_TV.png" group-title="RELIGION", RESTAURANDO VIDAS TV
+https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/178_Salvacion_TV.png" group-title="RELIGION", SALVACION TV
+https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/843_Vida_Television.png" group-title="RELIGION", VIDA TELEVISION
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="RELIGION",AVIVAMIENTO TV 
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PusDcc0.png" "RELIGION",HOSSANA VISION
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43q1NzKY/logoskids.png" "INFANTIL",LOGOS TV KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="INFANTIL", DIOS TEVE KIDS
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0pWs892/alcancetv.png" "RELIGION",ALCANCE TV
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGION",BENDICION CHANNEL
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="INFANTIL",EXTREMA KIDS TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE",CINE DIOS
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+
+#EXTINF:-1 tvg-id="162" tvg-name="Extrema TV" tvg-logo="https://cdn.m3u.cl/logo/162_Extrema_TV.png group-title="CINE", EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
